@@ -1,4 +1,4 @@
-import VueToast from '.'
+import VueToast from './index'
 
 export let Vue
 
